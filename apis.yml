@@ -1,0 +1,32 @@
+aid: us-street-address
+name: US Street Address
+description: "Validate and append data for any US postal address"
+url: https://www.smarty.com/docs/cloud/us-street-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Data Validation"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Data Validation
+  - Public APIs
+apis:
+  - name: US Street Address
+    description: "Validate and append data for any US postal address"
+    humanURL: https://www.smarty.com/docs/cloud/us-street-api
+    baseURL: https://www.smarty.com/docs/cloud/us-street-api
+    tags:
+      - Data Validation
+    properties:
+      - type: Documentation
+        url: https://www.smarty.com/docs/cloud/us-street-api
+common:
+  - type: Website
+    url: https://www.smarty.com/docs/cloud/us-street-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

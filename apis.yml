@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.smarty.com/docs/cloud/us-street-api
 common:
+  - type: DomainSecurity
+    url: security/us-street-address-domain-security.yml
   - type: Website
     url: https://www.smarty.com/docs/cloud/us-street-api
   - type: PublicAPIsListing

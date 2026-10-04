@@ -39,7 +39,6 @@ apis:
   - name: US Street Address
     description: "Validate and append data for any US postal address"
     humanURL: https://www.smarty.com/docs/cloud/us-street-api
-    baseURL: https://www.smarty.com/docs/cloud/us-street-api
     tags:
       - Data Validation
     properties:
